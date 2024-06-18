@@ -1,5 +1,5 @@
-AleSS
+# AleSS
 
-Una Versione Custom di EnderSS!
+# *Una Versione Custom di EnderSS!*
 
-Un semplice plugin Controllo Hack per Spigot, BungeeCord e Velocity
+**Un semplice plugin Controllo Hack per Spigot, BungeeCord e Velocity**
