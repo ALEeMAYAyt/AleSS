@@ -9,6 +9,6 @@
 Da Spigot 1.8.8 in su
 ## *Icon*
 <div align="center">
-    <img height="512" src="images/aless.png" width="512" alt="EnderSS logo"/>
+    <img height="512" src="images/aless.png" width="512" alt="AleSS logo"/>
 </div>
   
