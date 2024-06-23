@@ -2,7 +2,7 @@
 
 # *Una Versione Custom di EnderSS!*
 
-**Un semplice plugin Controllo Hack per Spigot, BungeeCord e Velocity**
+**Un semplice plugin Controllo Hack per Spigot, Bukkit, Paper BungeeCord e Velocity**
 
 
 ## Plugin Info
