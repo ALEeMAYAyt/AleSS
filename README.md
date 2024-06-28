@@ -7,7 +7,7 @@
 
 ## Plugin Info
 Da Spigot 1.8.8 in su
-## *Icon*
+## *Logo*
 <div align="center">
     <img height="512" src="aless.png" width="512" alt="AleSS logo"/>
 </div>
